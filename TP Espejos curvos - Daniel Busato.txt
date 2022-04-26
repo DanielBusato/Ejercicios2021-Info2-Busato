@@ -1,0 +1,19 @@
+Trabajo practico.
+
+Tema: Espejos curvos "Concavos y convexos". Fisica 1.
+
+Se realizara un programa que devuelva la posicion(S), naturaleza(imagen virtual o real, derecha o invertida) y tamaño 
+de la imagen(Y) luego de que el usuario ingrese el tipo de espejo(concavo o convexo), su radio(r), posicion(S´) y altura 
+del objeto(Y´).
+
+Las ecuaciones para espejos son:
+ 
+ 1/S+1/S´=1/f
+
+ f(foco)=r/2
+
+ m(aumento)=Y´/Y=-S´/S
+
+
+
+ 
